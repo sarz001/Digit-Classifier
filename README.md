@@ -26,5 +26,3 @@ This method is useful for educational demonstration of:
 - Basic probabilistic classification
 
 ---
-
-Let me know if you'd like a full updated `README.md` or `digit_classifier.py` version based on this name.
