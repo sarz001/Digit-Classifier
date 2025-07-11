@@ -46,9 +46,8 @@ For each test image:
 - Count how many training integers lie within this range for each class.
 - Compute:
   
-  \[
-  P(\text{value} \mid \text{class}) = \frac{\text{# of training values within tolerance}}{\text{total training values}}
-  \]
+P(value | class) = (# of training values within tolerance) / (total training values)
+
 
 - The class with the **higher conditional probability** is chosen as the prediction.
 
